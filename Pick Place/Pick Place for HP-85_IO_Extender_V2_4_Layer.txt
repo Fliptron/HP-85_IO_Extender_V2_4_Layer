@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+D:\Fliptronics_Altium_Projects\_HP-85\HP-85_IO_Extender_V2_4_Layer\Project Outputs for HP-85_IO_Extender_V2_4_Layer\Pick Place\Pick Place for HP-85_IO_Extender_V2_4_Layer.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/10/26
+Time:       10:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                            Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                 
+J18        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3481.000      1730.000      0        "Header, 1-Pin"                                             
+J2         "Fingers for 36 pins 0.156" pitch" TopLayer FINGERS_FOR_36_PINS_0.156"_PITCH 4600.000      1963.505      180      "Fingers for 36 pins 0.156" pitch for HP85"                 
+J1         "Fingers for 36 pins 0.156" pitch" TopLayer FINGERS_FOR_36_PINS_0.156"_PITCH 278.000       1964.000      180      "Fingers for 36 pins 0.156" pitch for HP85"                 
+P3         "Header 5X2"                       TopLayer HDR_5X2_alt_1                    3900.000      3687.498      0        "Header, 5-Pin, Dual row"                                   
+P1         "Header 5X2"                       TopLayer HDR_5X2_alt_1                    3018.000      3687.498      0        "Header, 5-Pin, Dual row"                                   
+P2         "Header 5X2"                       TopLayer HDR_5X2_alt_1                    3800.000      237.498       0        "Header, 5-Pin, Dual row"                                   
+U1         CD4050BDR                          TopLayer SOIC_16_W3.9mm_P1.27mm           1631.520      3201.498      0        "48mA 1 3V~18V 8mA 6 SOP-16 Buffer/Driver/Transceiver ROHS" 
+J39        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_round              4266.000      249.498       90       "Header, 1-Pin"                                             
+J40        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_round              4317.000      3815.498      90       "Header, 1-Pin"                                             
+J41        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_round              4317.000      3591.498      0        "Header, 1-Pin"                                             
+J3         "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.000      3294.182      0        "Header, 1-Pin"                                             
+J4         "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3650.000      642.001       0        "Header, 1-Pin"                                             
+J5         "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      3138.182      0        "Header, 1-Pin"                                             
+J6         "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      795.001       0        "Header, 1-Pin"                                             
+J7         "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.000      2982.001      0        "Header, 1-Pin"                                             
+J8         "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3650.000      954.001       0        "Header, 1-Pin"                                             
+J9         "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      2826.182      0        "Header, 1-Pin"                                             
+J10        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      1110.001      0        "Header, 1-Pin"                                             
+J11        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      2514.182      0        "Header, 1-Pin"                                             
+J12        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3650.000      1266.001      0        "Header, 1-Pin"                                             
+J13        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.000      2670.001      0        "Header, 1-Pin"                                             
+J14        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      1422.001      0        "Header, 1-Pin"                                             
+J15        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.000      2358.182      0        "Header, 1-Pin"                                             
+J16        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3650.000      1578.182      0        "Header, 1-Pin"                                             
+J17        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      2202.182      0        "Header, 1-Pin"                                             
+J19        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.000      2046.001      0        "Header, 1-Pin"                                             
+J20        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3650.000      1890.001      90       "Header, 1-Pin"                                             
+J21        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      1890.182      0        "Header, 1-Pin"                                             
+J22        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      2045.001      90       "Header, 1-Pin"                                             
+J23        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.181      1732.000      90       "Header, 1-Pin"                                             
+J24        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3650.000      2202.182      90       "Header, 1-Pin"                                             
+J25        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      1578.182      90       "Header, 1-Pin"                                             
+J26        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      2358.182      90       "Header, 1-Pin"                                             
+J27        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.181      1422.001      90       "Header, 1-Pin"                                             
+J28        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3650.000      2514.182      90       "Header, 1-Pin"                                             
+J29        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      1266.001      90       "Header, 1-Pin"                                             
+J30        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      2670.001      90       "Header, 1-Pin"                                             
+J31        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.000      1110.001      0        "Header, 1-Pin"                                             
+J32        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3640.000      2826.001      90       "Header, 1-Pin"                                             
+J33        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      954.182       90       "Header, 1-Pin"                                             
+J34        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      2982.001      90       "Header, 1-Pin"                                             
+J35        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3950.000      795.001       90       "Header, 1-Pin"                                             
+J36        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3640.000      3138.001      90       "Header, 1-Pin"                                             
+J37        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              4150.000      642.001       90       "Header, 1-Pin"                                             
+J38        "HDR 1X1"                          TopLayer HDR_1X1_2MM54_ROUND              3450.000      3294.001      90       "Header, 1-Pin"                                             

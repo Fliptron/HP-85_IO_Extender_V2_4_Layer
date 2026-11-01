@@ -1,0 +1,184 @@
+*************************************************************
+FileName = HP-85_IO_Extender_V2_4_Layer.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Solder
+      File : HP-85_IO_Extender_V2_4_Layer.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : HP-85_IO_Extender_V2_4_Layer.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : HP-85_IO_Extender_V2_4_Layer.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : HP-85_IO_Extender_V2_4_Layer.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : HP-85_IO_Extender_V2_4_Layer.G2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D28
+    D30
+*************************************************************
+
+*************************************************************
+Generating : VCC
+      File : HP-85_IO_Extender_V2_4_Layer.G1
+
+    Adding Layer      : VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D26
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : HP-85_IO_Extender_V2_4_Layer.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : HP-85_IO_Extender_V2_4_Layer.GM4
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : HP-85_IO_Extender_V2_4_Layer.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : HP-85_IO_Extender_V2_4_Layer.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : HP-85_IO_Extender_V2_4_Layer.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
